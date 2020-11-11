@@ -4,7 +4,7 @@ Our project is intended to help students and faculty alike to connect to each ot
 
 ## Meet the Team:
 
-Timothy Huo is a sophomore studying Computer Science at the University of Hawaii at Manoa.
-Michael Hui is a sophomore studying Computer Science. His interests are databases and web development.
-Henry Cheung is a junior studying Computer Science and Mathematics. He loves playing video games and teaching.
-Cheolhoon Choi is a senior studying for a B.S. in Computer Science of Information and Computer Sciences at the University of Hawaii. My interests are software development.
+Timothy Huo is a sophomore studying Computer Science at the University of Hawaii at Manoa. <br />
+Michael Hui is a sophomore studying Computer Science. His interests are databases and web development. <br />
+Henry Cheung is a junior studying Computer Science and Mathematics. He loves playing video games and teaching. <br />
+Cheolhoon Choi is a senior studying for a B.S. in Computer Science of Information and Computer Sciences at the University of Hawaii. My interests are software development. <br />
