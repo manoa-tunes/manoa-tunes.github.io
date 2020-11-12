@@ -13,4 +13,4 @@ Henry Cheung (https://github.com/khhc)[https://github.com/khhc]. <br />
 Cheolhoon Choi (https://github.com/cheolhoon)[https://github.com/cheolhoon]. <br />
 
 ## Landing Page:
-<img src="image/Mockup3.png">
+<img src="images/Mockup3.png">
