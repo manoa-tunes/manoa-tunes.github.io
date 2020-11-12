@@ -1,3 +1,11 @@
+
+# Table of Contents
+
+* [Manoa Tunes](#manoa-tunes)
+* [Meet the Team](#meet-the-team)
+* [Approach](#approach)
+* [Landing Page](#landing-page)
+
 # Manoa Tunes 
 
 _Problem_: Jam sessions are essential to experience musical creativity. Having such sessions give birth to the feeling of performing in a musical group. In UH Manoa there are many students who want to express that musical talent and creativity but do not have an opportunity or an easy way to do so.
