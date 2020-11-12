@@ -4,13 +4,13 @@ Our project is intended to help students and faculty alike to connect to each ot
 
 ## Meet the Team:
 
-Timothy Huo (https://github.com/timothyhuo1)[https://github.com/timothyhuo1]. <br />
+Cheolhoon Choi [https://github.com/cheolhoon](https://github.com/cheolhoon). <br />
 
-Michael Hui (https://github.com/huimichael)[https://github.com/huimichael]. <br />
+Henry Cheung [https://github.com/khhc](https://github.com/khhc). <br />
 
-Henry Cheung (https://github.com/khhc)[https://github.com/khhc]. <br />
+Michael Hui [https://github.com/huimichael](https://github.com/huimichael). <br />
 
-Cheolhoon Choi (https://github.com/cheolhoon)[https://github.com/cheolhoon]. <br />
+Timothy Huo [https://github.com/timothyhuo1](https://github.com/timothyhuo1). <br />
 
 ## Landing Page:
 <img src="images/Mockup3.png">
