@@ -22,6 +22,18 @@ Michael Hui <[https://huimichael.github.io/](https://huimichael.github.io/)>. <b
 
 Timothy Huo <[https://timothyhuo1.github.io](https://timothyhuo1.github.io)>. <br />
 
+## Approach: 
+Students are able to filter their interests and goals to find other musicians. <br /> 
+Admins can monitor the site for inappropriate content, and create new categories for interest and goals. <br /> 
+ 
+Some mockup pages include:
+* Landing page
+* User home page
+* Admin home page
+* User profile page.
+* Browse users by taste, ability, instrument, goals, etc.
+
+
 ## Landing Page:
 This is a mockup design for our Manoa-Tunes website.
 
