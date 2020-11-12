@@ -16,4 +16,5 @@ Timothy Huo <[https://timothyhuo1.github.io](https://timothyhuo1.github.io)>. <b
 
 ## Landing Page:
 This is a mockup design for our Manoa-Tunes website.
+
 <img src="images/Mockup3.png">
