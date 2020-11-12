@@ -4,13 +4,13 @@ Our project is intended to help students and faculty alike to connect to each ot
 
 ## Meet the Team:
 
-Cheolhoon Choi <[https://github.com/cheolhoon](https://github.com/cheolhoon)>. <br />
+Cheolhoon Choi <[cheolhoon.github.io](cheolhoon.github.io)>. <br />
 
-Henry Cheung <[https://github.com/khhc](https://github.com/khhc)>. <br />
+Henry Cheung <[khhc.github.io](khhc.github.io)>. <br />
 
-Michael Hui <[https://github.com/huimichael](https://github.com/huimichael)>. <br />
+Michael Hui <[huimichael.github.io](huimichael.github.io)>. <br />
 
-Timothy Huo <[https://github.com/timothyhuo1](https://github.com/timothyhuo1)>. <br />
+Timothy Huo <[timothyhuo1.github.io](timothyhuo1.github.io)>. <br />
 
 ## Landing Page:
 This is a mockup design for our Manoa-Tunes website.
