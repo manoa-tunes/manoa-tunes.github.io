@@ -14,13 +14,13 @@ _Solution_: Our project is intended to help students and faculty alike to connec
 
 ## Meet the Team:
 
-Cheolhoon Choi <[https://cheolhoon.github.io](https://cheolhoon.github.io)>. <br />
+<[Cheolhoon Choi](https://cheolhoon.github.io)>. <br />
 
-Henry Cheung <[https://khhc.github.io](https://khhc.github.io)>. <br />
+<[Henry Cheung](https://khhc.github.io)>. <br />
 
-Michael Hui <[https://huimichael.github.io/](https://huimichael.github.io/)>. <br />
+<[Michael Hui](https://huimichael.github.io/)>. <br />
 
-Timothy Huo <[https://timothyhuo1.github.io](https://timothyhuo1.github.io)>. <br />
+<[Timothy Huo](https://timothyhuo1.github.io)>. <br />
 
 ## Approach: 
 Students are able to filter their interests and goals to find other musicians. <br /> 
