@@ -39,7 +39,7 @@ This is a mockup design for our Manoa-Tunes website.
 
 ### Admin Page:
 
-##Milestones 
+## Milestones: 
 
 ### Milestone-1
 Setting up the pages and functions needed for our website. Began researching what interests and goals that one might have to create a useful platform to everyone. Here is what we have for our [Milestone-1](https://github.com/manoa-tunes/manoa-tunes/projects/1).
