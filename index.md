@@ -4,7 +4,7 @@
 * [Manoa Tunes](#manoa-tunes)
 * [Meet the Team](#meet-the-team)
 * [Approach](#approach)
-* [Landing Page](#landing-page)
+* [Mockup Pages](#mockup-pages)
 
 # Manoa Tunes 
 
