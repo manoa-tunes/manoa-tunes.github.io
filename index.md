@@ -41,6 +41,7 @@ This is a mockup design for our Manoa-Tunes website.
 ### Profile Page:
 
 ### Admin Page:
+<img src="images/AdminLanding.jpg">
 
 ## Milestones: 
 
