@@ -33,16 +33,21 @@ Admins can monitor the site for inappropriate content, and create new categories
 This is a mockup design for our Manoa-Tunes website.
 
 ### Landing Page:
+Visiting the website, this page will display: 
 <img src="images/landing.png">
 
-### Sign-In Page:
-<img src="images/login.png">
-
 ## Register Page:
+To make an account, click the Login link:
 <img src="images/register.png">
 
+### Sign-In Page:
+Click the Login link to sign in:
+<img src="images/login.png">
+
+After logging in, there are options to customize profile: 
 ### Profile Page:
 
+There is an "Admin" mode that will allow those with the Admin role to view all profiles and current jams:
 ### Admin Page:
 <img src="images/AdminLanding.png">
 
@@ -52,7 +57,7 @@ This is a mockup design for our Manoa-Tunes website.
 In our first milestone, we came up the mock-up pages and functions needed for our website. We began to researching what interests and goals that one might have to create a useful platform for everyone. Also, deployed our website with DigitalOcean. Here is our [Milestone-1](https://github.com/manoa-tunes/manoa-tunes/projects/1).
 ### Milestone-2
 
-Our [Milestone-2](https://github.com/manoa-tunes/manoa-tunes/projects/2).
+For our second milestone, we are focusing on developing our mock-up pages and functions. Here is our [Milestone-2](https://github.com/manoa-tunes/manoa-tunes/projects/2).
 
 
 
