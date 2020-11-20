@@ -60,5 +60,3 @@ In our first milestone, we came up the mock-up pages and functions needed for ou
 For our second milestone, we are focusing on developing our mock-up pages and functions. Here is our [Milestone-2](https://github.com/manoa-tunes/manoa-tunes/projects/2).
 
 
-
-
