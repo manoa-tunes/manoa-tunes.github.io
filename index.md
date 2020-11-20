@@ -33,7 +33,7 @@ Admins can monitor the site for inappropriate content, and create new categories
 This is a mockup design for our Manoa-Tunes website.
 
 ### Landing Page:
-<img src="images/Landing.png">
+<img src="images/landing.png">
 
 ### Sign-In Page:
 <img src="images/Mockup Signin.jpg">
