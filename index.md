@@ -34,21 +34,26 @@ This is a mockup design for our Manoa-Tunes website.
 
 ### Landing Page:
 Visiting the website, this page will display: 
+<br />
 <img src="images/landing.png">
 
 ## Register Page:
 To make an account, click the Login link:
+<br />
 <img src="images/register.png">
 
 ### Sign-In Page:
 Click the Login link to sign in:
+<br />
 <img src="images/login.png">
 
 ### Profile Page:
 After logging in, there are options to customize profile: 
+<br />
 
 ### Admin Page:
 There is an "Admin" mode that will allow those with the Admin role to view all profiles and current jams:
+<br />
 <img src="images/AdminLanding.png">
 
 ## Milestones: 
