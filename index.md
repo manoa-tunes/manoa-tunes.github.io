@@ -29,11 +29,11 @@ _Solution_: Our project is intended to help students and faculty alike to connec
 Students are able to filter their interests and goals to find other musicians. <br /> 
 Admins can monitor the site for inappropriate content, and create new categories for interest and goals. <br /> 
  
-## Mockup Pages:
+## Pages:
 This is a mockup design for our Manoa-Tunes website.
 
 ### Landing Page:
-<img src="images/Mockup3.png">
+<img src="images/Landing.png">
 
 ### Sign-In Page:
 <img src="images/Mockup Signin.jpg">
