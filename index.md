@@ -4,7 +4,7 @@
 * [Manoa Tunes](#manoa-tunes)
 * [Meet the Team](#meet-the-team)
 * [Approach](#approach)
-* [Mockup Pages](#mockup-pages)
+* [Pages](#pages)
 * [Milestones](#milestones)
 
 # Manoa Tunes 
@@ -36,7 +36,7 @@ This is a mockup design for our Manoa-Tunes website.
 Visiting the website, this page will display: <br />
 <img src="images/landing.png">
 
-## Register Page:
+### Register Page:
 To make an account, click the Sign Up link: <br />
 <img src="images/register.png">
 
@@ -45,7 +45,8 @@ Click the Sign In link to sign in: <br />
 <img src="images/login.png">
 
 ### Profile Page:
-After logging in, there are options to customize profile: <br />
+After logging in, there are options to customize profile (Note: Currently under development, this is a mockup): <br />
+<img src="images/ProfilePage.png">
 
 ### Admin Page:
 There is an "Admin" mode that will allow those with the Admin role to view all profiles and current jams: <br />
