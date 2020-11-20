@@ -44,11 +44,11 @@ To make an account, click the Login link:
 Click the Login link to sign in:
 <img src="images/login.png">
 
-After logging in, there are options to customize profile: 
 ### Profile Page:
+After logging in, there are options to customize profile: 
 
-There is an "Admin" mode that will allow those with the Admin role to view all profiles and current jams:
 ### Admin Page:
+There is an "Admin" mode that will allow those with the Admin role to view all profiles and current jams:
 <img src="images/AdminLanding.png">
 
 ## Milestones: 
