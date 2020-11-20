@@ -32,7 +32,7 @@ Students are able to filter their interests and goals to find other musicians. <
 Admins can monitor the site for inappropriate content, and create new categories for interest and goals. <br /> 
  
 ## Pages:
-This is a mockup design for our Manoa-Tunes website.
+These are the designs showcasing each page we have on Manoa-Tunes.
 
 ### Landing Page:
 Visiting the website, this page will [display](http://178.128.0.163/#/): <br />
