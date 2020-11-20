@@ -47,6 +47,8 @@ This is a mockup design for our Manoa-Tunes website.
 In our first milestone, we came up the pages and functions needed for our website. We began to researching what interests and goals that one might have to create a useful platform for everyone. Here is what we have for our [Milestone-1](https://github.com/manoa-tunes/manoa-tunes/projects/1).
 ### Milestone-2
 
+Our [Milestone-2](https://github.com/manoa-tunes/manoa-tunes/projects/2).
+
 
 
 
