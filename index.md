@@ -36,6 +36,7 @@ This is a mockup design for our Manoa-Tunes website.
 <img src="images/Mockup3.png">
 
 ### Sign-In Page:
+<img src="images/Mockup Signin.jpg">
 
 ### Profile Page:
 
