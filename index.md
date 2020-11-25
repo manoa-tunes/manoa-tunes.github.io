@@ -77,7 +77,7 @@ For our second milestone, we are focusing on developing our mock-up pages and fu
 
 First, [install Meteor](https://www.meteor.com/install).
 
-Second, download [Digits](https://github.com/manoa-tunes/manoa-tunes.github.io), and request permission to gain access to Manoa Tunes. 
+Second, download [Manoa Tunes](https://github.com/manoa-tunes/manoa-tunes.github.io), and request permission to gain access to Manoa Tunes. 
 
 Third, cd into the app/ directory and install required libraries: meteor:
 
