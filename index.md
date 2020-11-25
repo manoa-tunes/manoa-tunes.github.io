@@ -9,7 +9,7 @@
 
 # Manoa Tunes 
 
-[Manoa Tunes Website](https://manoa-tunes.github.io/) <br />
+[Manoa Tunes Website](https://manoatunes.xyz/#/) <br />
 
 [Github Repo](https://github.com/manoa-tunes/manoa-tunes) <br />
 
