@@ -9,7 +9,7 @@
 
 # Manoa Tunes 
 
-[Manoa Tunes Website](https://manoatunes.xyz/#/) <br />
+[Manoa Tunes Website](https://manoa-tunes.github.io/) <br />
 
 [Github Repo](https://github.com/manoa-tunes/manoa-tunes) <br />
 
@@ -35,7 +35,7 @@ Admins can monitor the site for inappropriate content, and create new categories
 These are the designs showcasing each page we have on Manoa-Tunes.
 
 ### Landing Page:
-Visiting the website, this page will [display](http://178.128.0.163/#/): <br />
+Visiting the website, this page will [display](https://manoatunes.xyz/#/): <br />
 
 <img src="images/landing.png">
 
