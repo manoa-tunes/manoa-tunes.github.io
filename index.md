@@ -97,7 +97,7 @@ The first time running the application will add default users:
 ```
 meteor npm run start
 
-> meteor-application-template-react@ start /Users/timothy/Desktop/github/timothyhuo/manoa-tunes/app
+> meteor-application-template-react@ start /Users/name/Desktop/manoa-tunes/app
 > meteor --no-release-check --exclude-archs web.browser.legacy,web.cordova --settings ../config/settings.development.json
 
 [[[[[ ~/Desktop/github/timothyhuo/digits/app ]]]]]
