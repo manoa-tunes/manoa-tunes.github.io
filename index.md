@@ -40,12 +40,12 @@ Visiting the website, this page will [display](https://manoatunes.xyz/#/): <br /
 <img src="images/landing.png">
 
 ### Register Page:
-To make an account, click the [Sign Up](http://178.128.0.163/#/signup) link: <br />
+To make an account, click the [Sign Up](https://manoatunes.xyz/#/signup) link: <br />
 
 <img src="images/register.png">
 
 ### Sign-In Page:
-Click the [Sign In](http://178.128.0.163/#/signin) link to sign in: <br />
+Click the [Sign In](https://manoatunes.xyz/#/signin) link to sign in: <br />
 
 <img src="images/login.png">
 
@@ -55,7 +55,7 @@ After logging in, there are options to customize profile (Note: Currently under 
 <img src="images/ProfilePage.png">
 
 ### Admin Page:
-There is an "[Admin](http://178.128.0.163/#/)" mode that will allow those with the Admin role to view all profiles and current jams: <br />
+There is an "[Admin](ttps://manoatunes.xyz/#/)" mode that will allow those with the Admin role to view all profiles and current jams: <br />
 
 <img src="images/AdminLanding.png">
 
