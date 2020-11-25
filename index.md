@@ -100,7 +100,7 @@ meteor npm run start
 > meteor-application-template-react@ start /Users/name/Desktop/manoa-tunes/app
 > meteor --no-release-check --exclude-archs web.browser.legacy,web.cordova --settings ../config/settings.development.json
 
-[[[[[ ~/Desktop/github/timothyhuo/digits/app ]]]]]
+[[[[[ ~/Desktop/name/manoa-tunes/app ]]]]]
 
 => Started proxy.                             
 => Started MongoDB.                           
