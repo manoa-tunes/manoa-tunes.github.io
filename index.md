@@ -9,7 +9,7 @@
 
 # Manoa Tunes 
 
-[Manoa Tunes Website](http://178.128.0.163/#/) <br />
+[Manoa Tunes Website](https://manoatunes.xyz/#/) <br />
 
 [Github Repo](https://github.com/manoa-tunes/manoa-tunes) <br />
 
