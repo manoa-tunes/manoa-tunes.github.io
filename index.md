@@ -105,6 +105,9 @@ After logging in, you will be greeted with your own profile page! It's a little 
 
 <img src="images/ProfilePage.png">
 
+### Adding and Joining Jams:
+To be made...
+
 ### Admin Page:
 There is an "[Admin](ttps://manoatunes.xyz/#/)" mode that will allow those with the Admin role to view all profiles and current jams: <br />
 
