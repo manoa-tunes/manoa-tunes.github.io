@@ -82,7 +82,11 @@ Ignore "bcrypt warning": Bcrypt is used for password checking and it is safe to 
 These are the designs showcasing each page we have on Manoa-Tunes.
 
 ### Landing Page:
-Visiting the website, this page will [display](https://manoatunes.xyz/#/): <br />
+Upon entering the site, you will be greeted with this [display](https://manoatunes.xyz/#/). On this page, as well as the other ones on this site, you will find a navigation header with various tabs that you can jump to. For the landing page, this includes the Manoa Tunes logo on the top-left, which from any page, will redirect you back to the landing page. The "login" option on the top-right will prompt a small menu giving you the option to either sign in or sign up.
+
+The main area of the site features several bits of information about this site, such as an upcoming jam, the track of the day, notable features of the site, and any questions you may come across.
+
+For more information about the site, or the makers behind the site, you'll find all of that and more at the footer! <br />
 
 <img src="images/landing.png">
 
@@ -97,7 +101,7 @@ Click the [Sign In](https://manoatunes.xyz/#/signin) link to sign in: <br />
 <img src="images/login.png">
 
 ### Profile Page:
-After logging in, there are options to customize profile (Note: Currently under development, this is a mockup): <br />
+After logging in, you will be greeted with your own profile page! It's a little empty at the moment, but you will be able to add a bio to share a little but about yourself with the community, as well as name your musical interests, talents, and even works! (Note: Currently under development, this is a mockup): <br />
 
 <img src="images/ProfilePage.png">
 
