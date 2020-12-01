@@ -103,7 +103,7 @@ Click the [Sign In](https://manoatunes.xyz/#/signin) link to sign in: <br />
 ### Profile Page:
 After logging in, you will be greeted with your own profile page! It's a little empty at the moment, but you will be able to add a bio to share a little but about yourself with the community, as well as name your musical interests, talents, and even works that you took part in creating! Upon creating or joining a Jam, those will also be featured here as well. (Note: Currently under development, this is a mockup): <br />
 
-<img src="images/ProfilePage.png">
+<img src="images/profiles.png">
 
 ### Adding and Joining Jams:
 To be made...
