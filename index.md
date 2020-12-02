@@ -112,7 +112,7 @@ In the Search option in the Navbar, you'll see the surface-level profiles of eve
 To be made...
 
 ### Admin Page:
-There is an "[Admin](ttps://manoatunes.xyz/#/)" mode that will allow those with the Admin role to view all profiles and current jams: <br />
+There is an "[Admin](ttps://manoatunes.xyz/#/)" mode that will allow those with the Admin role to view all profiles and current jams. Admins will be able to modify any profiles or jams should they see anything violating the rules of Manoa Tunes. If necessary, admins also have permissions to delete any profiles or jams after several warnings of malicious behavior. <br />
 
 <img src="images/AdminLanding.png">
 
