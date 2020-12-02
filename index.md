@@ -103,10 +103,12 @@ Click the [Sign In](https://manoatunes.xyz/#/signin) link to sign in: <br />
 ### Profile Page:
 After logging in, you will be greeted with your own profile page! It's a little empty at the moment, but you will be able to add a bio to share a little but about yourself with the community, as well as name your musical interests, talents, and even works that you took part in creating! Upon creating or joining a Jam, those will also be featured here as well. (Note: Currently under development): <br />
 
+<img src="images/ProfilePage.png">
+
 ### Profile Searching
 In the Search option in the Navbar, you'll see the surface-level profiles of everyone else who made an account with Manoa Tunes. Here, you can search by keywords interests, for both instruments and music tastes! You'll also be able to read a short bio of each profile, assuming that those users inputted one. This is essentially the hub for meeting new people and sharing your works with the Manoa Tunes community!
 
-<img src="images/profiles.png">
+<img src="images/AllProfiles.png">
 
 ### Adding and Joining Jams:
 To be made...
