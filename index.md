@@ -125,7 +125,9 @@ In our first milestone, we came up the mock-up pages and functions needed for ou
 
 ### Milestone-2
 
-For our second milestone, we are focusing on developing our mock-up pages and functions. Here is our [Milestone-2](https://github.com/manoa-tunes/manoa-tunes/projects/2).
+For our second milestone, we spent some times revamping our pages from Milestone 1 to have a more user-friendly interface. We added the ability for users to create a profile, as well as created a page for updating their profile. We have entered a sample database of about 30 entries for now. Here is our [Milestone-2](https://github.com/manoa-tunes/manoa-tunes/projects/2).
+
+<img src="images/M2.png">
 
 ### Milestone-3
 
