@@ -105,6 +105,8 @@ After logging in, users will be redirected to a profile creation page. Users wil
 
 <img src="images/YourProfile.png">
 
+<img src="images/EditProfile.png">
+
 ### Profile Searching
 In the Search option in the Navbar, you'll see the surface-level profiles of everyone else who made an account with Manoa Tunes. Here, you can search by keywords interests, for both instruments and music tastes! You'll also be able to read a short bio of each profile, assuming that those users inputted one. This is essentially the hub for meeting new people and sharing your works with the Manoa Tunes community!
 
@@ -113,7 +115,11 @@ In the Search option in the Navbar, you'll see the surface-level profiles of eve
 <img src="images/Filter.png">
 
 ### Adding and Joining Jams:
-To be made...
+Users have the ability to create a Jam, where the creator can share decide on a meetup time and location to share their and groups musical talents with the community. Other users also have to ability to join and leave these communities.
+
+<img src="images/CreateJam.png">
+
+<img src="images/AllJams.png">
 
 ### Admin Page:
 There is an "[Admin](http://159.65.68.217/)" mode that will allow those with the Admin role to view all profiles and current jams. Admins will be able to modify any profiles or jams should they see anything violating the rules of Manoa Tunes. If necessary, admins also have permissions to delete any profiles or jams after several warnings of malicious behavior. <br />
