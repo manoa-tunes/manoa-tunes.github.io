@@ -10,7 +10,7 @@
 
 # Manoa Tunes 
 
-[Manoa Tunes Website](https://manoatunes.xyz/#/) <br />
+[Manoa Tunes Website](http://159.65.68.217/) <br />
 
 [Github Repo](https://github.com/manoa-tunes/manoa-tunes) <br />
 
@@ -91,32 +91,36 @@ For more information about the site, or the makers behind the site, you'll find 
 <img src="images/landing.png">
 
 ### Register Page:
-To make an account, click the [Sign Up](https://manoatunes.xyz/#/signup) link: <br />
+To make an account, click the [Sign Up](http://159.65.68.217/#/signup) link: <br />
 
 <img src="images/register.png">
 
 ### Sign-In Page:
-Click the [Sign In](https://manoatunes.xyz/#/signin) link to sign in: <br />
+Click the [Sign In](http://159.65.68.217/#/signin) link to sign in: <br />
 
 <img src="images/login.png">
 
 ### Profile Page:
-After logging in, users will be redirected to a profile creation page. Users will be able to add a bio to share a little but about yourself with the community, as well as name your musical interests, talents, and even works that you took part in creating! Upon creating or joining a Jam, those will also be featured here as well. (Note: Currently under development): <br />
+After logging in, users will be redirected to a profile creation page. Users will be able to add a bio to share a little but about yourself with the community, as well as name your musical interests, talents, and even works that you took part in creating! Upon creating or joining a Jam, those will also be featured here as well. <br />
 
-<img src="images/ProfilePage.png">
+<img src="images/YourProfile.png">
 
 ### Profile Searching
 In the Search option in the Navbar, you'll see the surface-level profiles of everyone else who made an account with Manoa Tunes. Here, you can search by keywords interests, for both instruments and music tastes! You'll also be able to read a short bio of each profile, assuming that those users inputted one. This is essentially the hub for meeting new people and sharing your works with the Manoa Tunes community!
 
-<img src="images/AllProfiles.png">
+<img src="images/ProfilePage.png">
+
+<img src="images/Filter.png">
 
 ### Adding and Joining Jams:
 To be made...
 
 ### Admin Page:
-There is an "[Admin](ttps://manoatunes.xyz/#/)" mode that will allow those with the Admin role to view all profiles and current jams. Admins will be able to modify any profiles or jams should they see anything violating the rules of Manoa Tunes. If necessary, admins also have permissions to delete any profiles or jams after several warnings of malicious behavior. <br />
+There is an "[Admin](http://159.65.68.217/)" mode that will allow those with the Admin role to view all profiles and current jams. Admins will be able to modify any profiles or jams should they see anything violating the rules of Manoa Tunes. If necessary, admins also have permissions to delete any profiles or jams after several warnings of malicious behavior. <br />
 
 <img src="images/AdminLanding.png">
+
+<img src="images/ProfileAdmin.png">
 
 ## Milestones: 
 
