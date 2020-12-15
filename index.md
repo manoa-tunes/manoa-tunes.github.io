@@ -82,7 +82,7 @@ Ignore "bcrypt warning": Bcrypt is used for password checking and it is safe to 
 These are the designs showcasing each page we have on Manoa-Tunes.
 
 ### Landing Page:
-Upon entering the site, you will be greeted with this [display](https://manoatunes.xyz/#/). On this page, as well as the other ones on this site, you will find a navigation header with various tabs that you can jump to. For the landing page, this includes the Manoa Tunes logo on the top-left, which from any page, will redirect you back to the landing page. The "login" option on the top-right will prompt a small menu giving you the option to either sign in or sign up.
+Upon entering the site, you will be greeted with this [display](http://159.65.68.217/#/). On this page, as well as the other ones on this site, you will find a navigation header with various tabs that you can jump to. For this page, this includes the Manoa Tunes logo on the top-left, which from any page, will redirect you back to the landing page. The "login" option on the top-right will prompt a small menu giving you the option to either sign in or sign up.
 
 The main area of the site features several bits of information about this site, such as an upcoming jam, the track of the day, notable features of the site, and any questions you may come across.
 
@@ -101,21 +101,23 @@ Click the [Sign In](http://159.65.68.217/#/signin) link to sign in: <br />
 <img src="images/login.png">
 
 ### Profile Page:
-After logging in, users will be redirected to a profile creation page. Users will be able to add a bio to share a little but about yourself with the community, as well as name your musical interests, talents, and even works that you took part in creating! Upon creating or joining a Jam, those will also be featured here as well. <br />
+After logging in, users will notice that two new tabs have appeared on the NavBar. On the Profiles tab, users will be able to view their profile by clicking on "Your Profile." On this page, users will see their profile card, as well as the options to edit and delete their profile. In editing, users will be able to update anything to share a little but about yourself with the community, as well as name your musical interests, talents, and even works that you took part in creating! Upon creating or joining a Jam, those will also be featured here as well. <br />
 
 <img src="images/YourProfile.png">
 
 <img src="images/EditProfile.png">
 
-### Profile Searching
-In the Search option in the Navbar, you'll see the surface-level profiles of everyone else who made an account with Manoa Tunes. Here, you can search by keywords interests, for both instruments and music tastes! You'll also be able to read a short bio of each profile, assuming that those users inputted one. This is essentially the hub for meeting new people and sharing your works with the Manoa Tunes community!
+### All Profiles
+The other option in the Profiles tab is "All Profiles" where you will get to see the profiles of everyone else who made an account with Manoa Tunes. Here, you can search by keywords interests, for instruments, music tastes, and jams! Searching is keyword inclusive, so all profiles that even one keyword applies to will show. Additionally, other community members will be able to leave reviews of their fellow Manoa Tunes peers, whether on their music, or even how a Jam went! This is essentially the hub for meeting new people and sharing your works with the Manoa Tunes community!
 
 <img src="images/ProfilePage.png">
 
 <img src="images/Filter.png">
 
+<img src="images/Reviews.png">
+
 ### Adding and Joining Jams:
-Users have the ability to create a Jam, where the creator can share decide on a meetup time and location to share their and groups musical talents with the community. Other users also have to ability to join and leave these communities.
+The other tab in the NavBar features the Jams of the website. In the "Create Jam" option, users have the ability to create a Jam, where the creator can schedule a meetup for musicians and music enthusiasts alike to participate in. Other users also have to ability to join and leave these communities. The other option in the Jams tab is "All Jams." Here, you can see all the Jams made by other members of the community. Each Jam card features information about the Jam, as well as the amount of attendees. Users will be able to join or leave a jam. Of course, users cannot leave a Jam they are not in, nor join a Jam they are already in!
 
 <img src="images/CreateJam.png">
 
