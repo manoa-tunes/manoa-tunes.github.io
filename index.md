@@ -124,11 +124,13 @@ The other tab in the NavBar features the Jams of the website. In the "Create Jam
 <img src="images/AllJams.png">
 
 ### Admin Page:
-There is an "[Admin](http://159.65.68.217/)" mode that will allow those with the Admin role to view all profiles and current jams. Admins will be able to modify any profiles or jams should they see anything violating the rules of Manoa Tunes. If necessary, admins also have permissions to delete any profiles or jams after several warnings of malicious behavior. <br />
+There is an "[Admin](http://159.65.68.217/)" mode that will allow those with the Admin role to view all profiles and current jams. In the new Admin tab, Admins will be able to modify any profiles or jams should they see anything violating the rules of Manoa Tunes. If necessary, admins also have permissions to delete any profiles or jams after several warnings of malicious behavior. <br />
 
 <img src="images/AdminLanding.png">
 
 <img src="images/ProfileAdmin.png">
+
+<img src="images/JamsAdmin.png">
 
 ## Milestones: 
 
