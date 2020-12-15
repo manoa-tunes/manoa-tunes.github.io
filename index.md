@@ -6,6 +6,7 @@
 * [Developer Guide](#developer-guide)
 * [Pages](#pages)
 * [Milestones](#milestones)
+* [Community Feedback](#community-feedback)
 * [Meet the Team](#meet-the-team)
 
 # Manoa Tunes 
@@ -140,14 +141,20 @@ In our first milestone, we came up the mock-up pages and functions needed for ou
 <img src="images/M1.png">
 
 ### Milestone-2
-
 For our second milestone, we spent some times revamping our pages from Milestone 1 to have a more user-friendly interface. We added the ability for users to create a profile, as well as created a page for updating their profile. We have entered a sample database of about 30 entries for now. Here is our [Milestone-2](https://github.com/manoa-tunes/manoa-tunes/projects/2).
 
 <img src="images/M2.png">
 
 ### Milestone-3
-
 For our third and last milestone, we are polishing the website and add more design and features to make it stand out. Here is our [milestone-3](https://github.com/manoa-tunes/manoa-tunes/projects/3).
+
+## Community Feedback:
+Here what some people had to say about our site below!
+
+> Manoa Tunes is a user friendly website in which I can find others who have a passion for music while also putting myself out there. The functionalities for my profile and seeing others simple and easy to navigate to. This is the same with the "Jams", I was able to easily know quick info about individuals and jams through their tags. Creating my own Jam was as easy as creating my own profile, leaving and joining jams were just as easy. As an admin I had an easy time removing individuals or editing profiles that were inappropriate. Besides a bit of front end ui inconsistencies, the website provided everything I would want in meeting other musicians while also being easy to use.
+
+-- Justin Wong, Information and Computer Sciences
+
 
 ## Meet the Team:
 
