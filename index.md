@@ -133,6 +133,11 @@ There is an "[Admin](http://159.65.68.217/)" mode that will allow those with the
 
 <img src="images/JamsAdmin.png">
 
+### Logging Off
+We thank you for experiencing Manoa Tunes. We've even made a nice page for when you log off. We hope to see you next time you're in the mood to jam!
+
+<img src="images/SignedOut.png">
+
 ## Milestones: 
 
 ### Milestone-1
@@ -152,8 +157,19 @@ For our third and last milestone, we are polishing the website and add more desi
 Here what some people had to say about our site below!
 
 > Manoa Tunes is a user friendly website in which I can find others who have a passion for music while also putting myself out there. The functionalities for my profile and seeing others simple and easy to navigate to. This is the same with the "Jams", I was able to easily know quick info about individuals and jams through their tags. Creating my own Jam was as easy as creating my own profile, leaving and joining jams were just as easy. As an admin I had an easy time removing individuals or editing profiles that were inappropriate. Besides a bit of front end ui inconsistencies, the website provided everything I would want in meeting other musicians while also being easy to use.
-
 -- Justin Wong, Information and Computer Sciences
+
+> I like the design,it makes navigation and reading things really easy to understand. For hyperlinks that redirect you to another website (i.e. youtube, github, etc.), I wish that it would open up a new tab instead so I can continue scrolling through the website without pressing the "previous page" option on my browser. Clicking "Home" gives me a "your connection is not private" screen. For the Jams with the "Join" and "Leave" options, it would be nice to have in indication which Jams I am already in. Maybe like a green box in the top right saying "Joined" and a checkmark or something.
+-- Ethan Chee, Computer Engineering
+
+> Overall, I think the website and UI is amazing. It has a very simplistic design and the website is easy to navigate. The website is very well organized being able to look at web pages with just a click of a button. I love that every profile has a randomly generated character and a neatly formatted interest and jams. The Jam’s feature does a great job allowing people to create their own jams giving others the option to either join or leave them. As for some suggestions, I would maybe add a search bar on the home page so it can be easier for people to look for a specific person or specific jam. Another suggestion would be to allowing typing when you are using the filter as if more options were added in the future, it would be easier to find what you want rather than scrolling through the filter.
+-- Brandon Au, Computer Engineer
+
+> I love how simplistic creating profiles and jams are. All functionality that you expect to work does indeed work. I recommend adding a "back to top" button so users don't have to scroll back to the top. It would also be nice if users are able to edit Jams. A question I had after testing the site was "do the jams delete themselves after their date passes?""
+-- Jemar Talon, Information and Computer Sciences
+
+> This site is well made. I feel as though the simplicity of the site compliments its straightforward purpose. The options for detailing your profile are very customizable. However, an option should be given to further detail the "Other" options. Also, the menu for creating a Jam does not expand enough to account for the possibility of including every single option.
+-- Anthony Liu, Biochemistry
 
 
 ## Meet the Team:
