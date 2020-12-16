@@ -172,7 +172,7 @@ Here what some people had to say about our site below!
 
 -- Brandon Au, Computer Engineer
 
-> I love how simplistic creating profiles and jams are. All functionality that you expect to work does indeed work. I recommend adding a "back to top" button so users don't have to scroll back to the top. It would also be nice if users are able to edit Jams. A question I had after testing the site was "do the jams delete themselves after their date passes?""
+> I love how simplistic creating profiles and jams are. All functionality that you expect to work does indeed work. I recommend adding a "back to top" button so users don't have to scroll back to the top. It would also be nice if users are able to edit Jams. A question I had after testing the site was if jams delete themselves after their date passes? If not, it would be a good feature to do so.
 
 -- Jemar Talon, Information and Computer Sciences
 
