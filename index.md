@@ -153,7 +153,7 @@ For our second milestone, we spent some times revamping our pages from Milestone
 <img src="images/M2.png">
 
 ### Milestone-3
-For our third and last milestone, we are polishing the website and add more design and features to make it stand out. Here is our [milestone-3](https://github.com/manoa-tunes/manoa-tunes/projects/3).
+For our third and last milestone, we are polishing the website and add more design and features to make it stand out. We added features such as creating and joining jams. Also, we worked on the admin pages, allowing admins to delete and edit jams and profiles. Here is our [milestone-3](https://github.com/manoa-tunes/manoa-tunes/projects/3).
 
 <img src="images/M3.png">
 
