@@ -11,9 +11,9 @@
 
 # Manoa Tunes 
 
-[Manoa Tunes Website](http://159.65.68.217/) <br />
+See our deployed Website: [Manoa Tunes Website](http://159.65.68.217/) <br />
 
-[Github Repo](https://github.com/manoa-tunes/manoa-tunes) <br />
+Find the Github Repo here: [Github Repo](https://github.com/manoa-tunes/manoa-tunes) <br />
 
 _Problem_: Jam sessions are essential to experience musical creativity. Having such sessions give birth to the feeling of performing in a musical group. In UH Manoa there are many students who want to express that musical talent and creativity but do not have an opportunity or an easy way to do so.
 
@@ -125,11 +125,13 @@ The other tab in the NavBar features the Jams of the website. In the "Create Jam
 <img src="images/AllJams.png">
 
 ### Admin Page:
-There is an "[Admin](http://159.65.68.217/)" mode that will allow those with the Admin role to view all profiles and current jams. In the new Admin tab, Admins will be able to modify any profiles or jams should they see anything violating the rules of Manoa Tunes. If necessary, admins also have permissions to delete any profiles or jams after several warnings of malicious behavior. <br />
+There is an "[Admin](http://159.65.68.217/)" mode that will allow those with the Admin role to view all profiles and current jams. In the new Admin tab, Admins will be able to modify any profiles or jams should they see anything violating the rules of Manoa Tunes. If necessary, admins also have permissions to delete any profiles, jams, or comments after several warnings of malicious behavior. <br />
 
 <img src="images/AdminLanding.png">
 
 <img src="images/ProfileAdmin.png">
+
+<img src="images/AdminDeleteComment.png">
 
 <img src="images/JamsAdmin.png">
 
