@@ -153,6 +153,8 @@ For our second milestone, we spent some times revamping our pages from Milestone
 ### Milestone-3
 For our third and last milestone, we are polishing the website and add more design and features to make it stand out. Here is our [milestone-3](https://github.com/manoa-tunes/manoa-tunes/projects/3).
 
+<img src="images/M3.png">
+
 ## Community Feedback:
 Here what some people had to say about our site below!
 
